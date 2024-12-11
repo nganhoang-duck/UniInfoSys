@@ -1,0 +1,14 @@
+D:\PTTKHT\QLHS\QLHS.Model\bin\Debug\net8.0\QLHS.Model.deps.json
+D:\PTTKHT\QLHS\QLHS.Model\bin\Debug\net8.0\QLHS.Model.runtimeconfig.json
+D:\PTTKHT\QLHS\QLHS.Model\bin\Debug\net8.0\QLHS.Model.dll
+D:\PTTKHT\QLHS\QLHS.Model\bin\Debug\net8.0\QLHS.Model.pdb
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.csproj.AssemblyReference.cache
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.AssemblyInfoInputs.cache
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.AssemblyInfo.cs
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.csproj.CoreCompileInputs.cache
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.dll
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\refint\QLHS.Model.dll
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.pdb
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\QLHS.Model.genruntimeconfig.cache
+D:\PTTKHT\QLHS\QLHS.Model\obj\Debug\net8.0\ref\QLHS.Model.dll

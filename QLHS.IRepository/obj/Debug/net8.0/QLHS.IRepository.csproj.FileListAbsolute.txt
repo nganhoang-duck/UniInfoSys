@@ -1,0 +1,14 @@
+D:\PTTKHT\QLHS\QLHS.IRepository\bin\Debug\net8.0\QLHS.IRepository.deps.json
+D:\PTTKHT\QLHS\QLHS.IRepository\bin\Debug\net8.0\QLHS.IRepository.runtimeconfig.json
+D:\PTTKHT\QLHS\QLHS.IRepository\bin\Debug\net8.0\QLHS.IRepository.dll
+D:\PTTKHT\QLHS\QLHS.IRepository\bin\Debug\net8.0\QLHS.IRepository.pdb
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.csproj.AssemblyReference.cache
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.AssemblyInfoInputs.cache
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.AssemblyInfo.cs
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.csproj.CoreCompileInputs.cache
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.dll
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\refint\QLHS.IRepository.dll
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.pdb
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\QLHS.IRepository.genruntimeconfig.cache
+D:\PTTKHT\QLHS\QLHS.IRepository\obj\Debug\net8.0\ref\QLHS.IRepository.dll

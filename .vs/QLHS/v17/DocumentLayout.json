@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTTKHT\\QLHS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D4A1DE-04CD-4CC1-808F-600E73FAECC8}|QLHS.Repository\\QLHS.Repository.csproj|d:\\pttkht\\qlhs\\qlhs.repository\\bhytrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D4A1DE-04CD-4CC1-808F-600E73FAECC8}|QLHS.Repository\\QLHS.Repository.csproj|solutionrelative:qlhs.repository\\bhytrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|d:\\pttkht\\qlhs\\qlhs.model\\entities\\bhyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|solutionrelative:qlhs.model\\entities\\bhyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D4A1DE-04CD-4CC1-808F-600E73FAECC8}|QLHS.Repository\\QLHS.Repository.csproj|d:\\pttkht\\qlhs\\qlhs.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D4A1DE-04CD-4CC1-808F-600E73FAECC8}|QLHS.Repository\\QLHS.Repository.csproj|solutionrelative:qlhs.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D4A1DE-04CD-4CC1-808F-600E73FAECC8}|QLHS.Repository\\QLHS.Repository.csproj|d:\\pttkht\\qlhs\\qlhs.repository\\hosorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D4A1DE-04CD-4CC1-808F-600E73FAECC8}|QLHS.Repository\\QLHS.Repository.csproj|solutionrelative:qlhs.repository\\hosorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6160F-3508-42CE-B605-22F86348F71C}|QLHS.IRepository\\QLHS.IRepository.csproj|d:\\pttkht\\qlhs\\qlhs.irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6160F-3508-42CE-B605-22F86348F71C}|QLHS.IRepository\\QLHS.IRepository.csproj|solutionrelative:qlhs.irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8515E8BD-4046-4060-9F4F-1DCACFAABD08}|QLHS.Web\\QLHS.Web.csproj|d:\\pttkht\\qlhs\\qlhs.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8515E8BD-4046-4060-9F4F-1DCACFAABD08}|QLHS.Web\\QLHS.Web.csproj|solutionrelative:qlhs.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|d:\\pttkht\\qlhs\\qlhs.model\\entities\\hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|solutionrelative:qlhs.model\\entities\\hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|d:\\pttkht\\qlhs\\qlhs.model\\entities\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|solutionrelative:qlhs.model\\entities\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|d:\\pttkht\\qlhs\\qlhs.model\\entities\\diemhoctap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF6085-39E6-451F-BC91-12A99A454D74}|QLHS.Model\\QLHS.Model.csproj|solutionrelative:qlhs.model\\entities\\diemhoctap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bhyt.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\Bhyt.cs",
+              "RelativeDocumentMoniker": "QLHS.Model\\Entities\\Bhyt.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\Bhyt.cs",
+              "RelativeToolTip": "QLHS.Model\\Entities\\Bhyt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:37:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoSoRepository.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Repository\\HoSoRepository.cs",
+              "RelativeDocumentMoniker": "QLHS.Repository\\HoSoRepository.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Repository\\HoSoRepository.cs",
+              "RelativeToolTip": "QLHS.Repository\\HoSoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:36:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BhytRepository.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Repository\\BhytRepository.cs",
+              "RelativeDocumentMoniker": "QLHS.Repository\\BhytRepository.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Repository\\BhytRepository.cs",
+              "RelativeToolTip": "QLHS.Repository\\BhytRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:44:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "QLHS.IRepository\\IGenericRepository.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "QLHS.IRepository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:21:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "QLHS.Web\\Program.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Web\\Program.cs",
+              "RelativeToolTip": "QLHS.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:09:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HoSo.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\HoSo.cs",
+              "RelativeDocumentMoniker": "QLHS.Model\\Entities\\HoSo.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\HoSo.cs",
+              "RelativeToolTip": "QLHS.Model\\Entities\\HoSo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:07:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiemHocTap.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\DiemHocTap.cs",
+              "RelativeDocumentMoniker": "QLHS.Model\\Entities\\DiemHocTap.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\DiemHocTap.cs",
+              "RelativeToolTip": "QLHS.Model\\Entities\\DiemHocTap.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:24:46.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "QLHS.Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Repository\\GenericRepository.cs",
+              "RelativeToolTip": "QLHS.Repository\\GenericRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:03:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\SinhVien.cs",
+              "RelativeDocumentMoniker": "QLHS.Model\\Entities\\SinhVien.cs",
+              "ToolTip": "D:\\PTTKHT\\QLHS\\QLHS.Model\\Entities\\SinhVien.cs",
+              "RelativeToolTip": "QLHS.Model\\Entities\\SinhVien.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:24:50.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
